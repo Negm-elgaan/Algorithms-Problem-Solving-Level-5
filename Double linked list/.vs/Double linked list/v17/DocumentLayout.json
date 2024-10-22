@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omarh\\Double linked list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6180F866-59E1-4D3D-9D8D-CB70EBD29899}|Double linked list\\Double linked list.vcxproj|C:\\Users\\omarh\\Double linked list\\Double linked list\\Double linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6180F866-59E1-4D3D-9D8D-CB70EBD29899}|Double linked list\\Double linked list.vcxproj|solutionrelative:Double linked list\\Double linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Double linked list.cpp",
+              "DocumentMoniker": "C:\\Users\\omarh\\Double linked list\\Double linked list\\Double linked list.cpp",
+              "RelativeDocumentMoniker": "Double linked list\\Double linked list.cpp",
+              "ToolTip": "C:\\Users\\omarh\\Double linked list\\Double linked list\\Double linked list.cpp",
+              "RelativeToolTip": "Double linked list\\Double linked list.cpp",
+              "ViewState": "AQIAANcAAAAAAAAAAAAAAMkBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T00:44:07.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿  Double linked list.cpp
+C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(16,10): warning C4091: 'static ': ignored on left of 'clsDblLinkedList<T>::node' when no variable is declared
+  C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(16,10):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(6,26):
+  	while compiling class template 'clsDblLinkedList'
+  
+C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(16,10): warning C4091: 'static ': ignored on left of 'clsDblLinkedList<int>::node' when no variable is declared
+  C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(16,10):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(251,28):
+  	see reference to class template instantiation 'clsDblLinkedList<int>' being compiled
+  
+  Double linked list.vcxproj -> C:\Users\omarh\Double linked list\x64\Debug\Double linked list.exe
