@@ -15,7 +15,7 @@ template <class T> class clsDblLinkedList
                 node* prev;
         };
         node* head = NULL;
-        node* Tail = NULL;
+        node* tail = NULL;
         
         void InsertAtBeginning(T Data)
         {
@@ -25,15 +25,22 @@ template <class T> class clsDblLinkedList
                 head->Data = Data;
                 head->next = NULL;
                 head->prev = NULL;
+                tail = new node();
+                tail->Data = Data;
+                tail->next = NULL;
+                tail->prev = NULL;
                 size++;
                 return;
             }
             node* NewNode = new node();
             NewNode->Data = Data;
             NewNode->next = head;
+            if (head->next == NULL)
+                tail->prev = NewNode;
             head->prev = NewNode;
             head = NewNode;
             size++;
+            cout << tail->Data << endl;
             return;
         }
 
@@ -45,6 +52,10 @@ template <class T> class clsDblLinkedList
                 head->Data = Data;
                 head->next = NULL;
                 head->prev = NULL;
+                tail = new node();
+                tail->Data = Data;
+                tail->next = NULL;
+                tail->prev = NULL;
                 size++;
                 return;
             }
@@ -56,6 +67,7 @@ template <class T> class clsDblLinkedList
                 Temp = Temp->next;
             NewNode->prev = Temp;
             Temp->next = NewNode;
+            tail = NewNode;
             size++;
             //cout << Temp->next->Data << endl;
             return;
@@ -96,6 +108,7 @@ template <class T> class clsDblLinkedList
                 NewNode->prev = head;
                 NewNode->next = head->next;
                 head->next = NewNode;
+                tail = NewNode;
                 size++;
                 return;
             }
@@ -120,6 +133,7 @@ template <class T> class clsDblLinkedList
                 NewNode->prev = Current;
                 NewNode->next = Current->next;
                 Current->next = NewNode;
+                tail = NewNode;
                 size++;
                 return;
             }
@@ -160,6 +174,7 @@ template <class T> class clsDblLinkedList
             if (temp->Data == Data)
             {
                 temp->prev->next = temp->next;
+                tail = temp->prev;
                 delete temp;
                 size--;
                 return;
@@ -179,6 +194,7 @@ template <class T> class clsDblLinkedList
             }
             while (temp->next != NULL)
                 temp = temp->next;
+            tail = temp->prev;
             temp->prev->next = NULL;
             delete temp;
             size--;
@@ -230,6 +246,7 @@ template <class T> class clsDblLinkedList
             }
             return;
         }
+
         void PrintNode()
         {
             node* temp = head;
@@ -245,6 +262,37 @@ template <class T> class clsDblLinkedList
 
             return;
         }
+
+        void Reverse()
+        {
+            node* temp = tail;
+            if (tail == NULL)
+                return;
+            while (temp != NULL)
+            {
+                cout << temp->Data << endl;
+                temp = temp->prev;
+            }
+
+            return;
+        }
+
+        void  Reverse()
+        {
+            Node* current = head;
+            Node* temp = nullptr;
+            while (current != nullptr) {
+                temp = current->prev;
+                current->prev = current->next;
+                current->next = temp;
+                current = current->prev;
+            }
+
+            if (temp != nullptr) {
+                head = temp->prev;
+            }
+        }
+
 };
 int main()
 {
@@ -265,7 +313,9 @@ int main()
     dbllinked.PrintNode();
     cout << endl;
     dbllinked.PrintNode();
-    cout << "Size: " << dbllinked.Size();
+    cout << "Size: " << dbllinked.Size() << endl;
+  
+    dbllinked.Reverse();
     cout << "\n//\n";
     dbllinked.Clear();
     dbllinked.PrintNode();
