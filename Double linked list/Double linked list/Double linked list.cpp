@@ -40,7 +40,6 @@ template <class T> class clsDblLinkedList
             head->prev = NewNode;
             head = NewNode;
             size++;
-            cout << tail->Data << endl;
             return;
         }
 
@@ -263,7 +262,7 @@ template <class T> class clsDblLinkedList
             return;
         }
 
-        void Reverse()
+        /*void Reverse()
         {
             node* temp = tail;
             if (tail == NULL)
@@ -275,12 +274,12 @@ template <class T> class clsDblLinkedList
             }
 
             return;
-        }
+        }*/
 
         void  Reverse()
         {
-            Node* current = head;
-            Node* temp = nullptr;
+            node* current = head;
+            node* temp = nullptr;
             while (current != nullptr) {
                 temp = current->prev;
                 current->prev = current->next;
@@ -293,6 +292,18 @@ template <class T> class clsDblLinkedList
             }
         }
 
+        node* GetNode(int index = 0)
+        {
+            if (index < 0 || index >= size)
+                return NULL;
+            node* temp = head;
+            for (int i = 0; i < size; i++)
+            {
+                if (i == index)
+                    return temp;
+                temp = temp->next;
+            }
+        }
 };
 int main()
 {
@@ -307,8 +318,9 @@ int main()
     dbllinked.InsertAtBeginning(0);
     dbllinked.PrintNode();
     clsDblLinkedList <int> :: node* node1 = dbllinked.Find(0);
-    
-    dbllinked.InsertAfter(node1, 5);
+    clsDblLinkedList <int> ::node* node2 = dbllinked.GetNode(4);
+    cout << "\n" << node2->Data << endl;
+    /*dbllinked.InsertAfter(node1, 5);
     cout << endl;
     dbllinked.PrintNode();
     cout << endl;
@@ -319,7 +331,7 @@ int main()
     cout << "\n//\n";
     dbllinked.Clear();
     dbllinked.PrintNode();
-    cout << "Size: " << dbllinked.Size();
+    cout << "Size: " << dbllinked.Size();*/
 }
 /*//ProgrammingAdvices.com
 //Mohammed Abu-Hadhoud
