@@ -304,6 +304,66 @@ template <class T> class clsDblLinkedList
                 temp = temp->next;
             }
         }
+
+        T GetItem(int index = 0)
+        {
+            if (index < 0 || index >= size)
+                return NULL;
+            node* temp = head;
+            for (int i = 0; i < size; i++)
+            {
+                if (i == index)
+                    return temp->Data;
+                temp = temp->next;
+            }
+        }
+
+        void Updateitem(int index, T NewValue)
+        {
+            node* temp = GetNode(index);
+            if (temp == NULL)
+                return;
+            temp->Data = NewValue;
+            return;
+
+        }
+
+        bool UpdateItem(int Index, T NewValue)
+        {
+            node* ItemNode = GetNode(Index);
+
+            if (ItemNode != NULL)
+            {
+                ItemNode->Data = NewValue;
+                return true;
+            }
+            else
+                return false;
+
+        }
+
+        void InsertAfter(int index, T Data)
+        {
+            node* temp = GetNode(index);
+            if (temp == NULL)
+                return;
+            InsertAfter(temp, Data);
+            return;
+        }
+        /*
+        * bool InsertAfter(int Index, T value)
+    {
+        Node* ItemNode = GetNode(Index);
+        if (ItemNode != NULL)
+        {
+            InsertAfter(ItemNode, value);
+            return true;
+        }
+        else
+            return false;
+    }
+    Abu-Hadhoud Function
+*/
 };
 int main()
 {
@@ -320,6 +380,11 @@ int main()
     clsDblLinkedList <int> :: node* node1 = dbllinked.Find(0);
     clsDblLinkedList <int> ::node* node2 = dbllinked.GetNode(4);
     cout << "\n" << node2->Data << endl;
+    cout << "Get Item : " << dbllinked.GetItem(2) << endl;;
+
+    dbllinked.UpdateItem(2, 1000);    
+    dbllinked.InsertAfter(2, 2000);
+    dbllinked.PrintNode();
     /*dbllinked.InsertAfter(node1, 5);
     cout << endl;
     dbllinked.PrintNode();
