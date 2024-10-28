@@ -1,0 +1,16 @@
+﻿  Queue.cpp
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Queue\Queue\clsMyQueue.h(15,10): warning C4091: 'static ': ignored on left of 'clsMyQueue<T>::node' when no variable is declared
+  (compiling source file 'Queue.cpp')
+  C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Queue\Queue\clsMyQueue.h(15,10):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Queue\Queue\clsMyQueue.h(4,26):
+  	while compiling class template 'clsMyQueue'
+  
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Queue\Queue\clsMyQueue.h(15,10): warning C4091: 'static ': ignored on left of 'clsMyQueue<int>::node' when no variable is declared
+  (compiling source file 'Queue.cpp')
+  C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Queue\Queue\clsMyQueue.h(15,10):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Queue\Queue\Queue.cpp(9,22):
+  	see reference to class template instantiation 'clsMyQueue<int>' being compiled
+  
+  Queue.vcxproj -> C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Queue\x64\Debug\Queue.exe
