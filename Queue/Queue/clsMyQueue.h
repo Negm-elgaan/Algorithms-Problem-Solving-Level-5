@@ -309,7 +309,7 @@ public:
         return _MyList.UpdateItem(index, newval);
     }
 
-    clsMyQueue GetItem(int index)
+    T GetItem(int index)
     {
         _MyList.GetItem(index);
     }
