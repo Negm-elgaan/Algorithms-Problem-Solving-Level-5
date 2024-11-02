@@ -1,14 +1,16 @@
 ﻿  Double linked list.cpp
-C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(16,10): warning C4091: 'static ': ignored on left of 'clsDblLinkedList<T>::node' when no variable is declared
-  C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(16,10):
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Double linked list\Double linked list\Double linked list.cpp(17,10): warning C4091: 'static ': ignored on left of 'clsDblLinkedList<T>::node' when no variable is declared
+  C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Double linked list\Double linked list\Double linked list.cpp(17,10):
   the template instantiation context (the oldest one first) is
-  	C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(6,26):
+  	C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Double linked list\Double linked list\Double linked list.cpp(7,26):
   	while compiling class template 'clsDblLinkedList'
   
-C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(16,10): warning C4091: 'static ': ignored on left of 'clsDblLinkedList<int>::node' when no variable is declared
-  C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(16,10):
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Double linked list\Double linked list\Double linked list.cpp(17,10): warning C4091: 'static ': ignored on left of 'clsDblLinkedList<int>::node' when no variable is declared
+  C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Double linked list\Double linked list\Double linked list.cpp(17,10):
   the template instantiation context (the oldest one first) is
-  	C:\Users\omarh\Double linked list\Double linked list\Double linked list.cpp(251,28):
+  	C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Double linked list\Double linked list\Double linked list.cpp(380,28):
   	see reference to class template instantiation 'clsDblLinkedList<int>' being compiled
   
-  Double linked list.vcxproj -> C:\Users\omarh\Double linked list\x64\Debug\Double linked list.exe
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Double linked list\Double linked list\Double linked list.cpp(329,1): warning C4715: 'clsDblLinkedList<int>::GetItem': not all control paths return a value
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Double linked list\Double linked list\Double linked list.cpp(316,1): warning C4715: 'clsDblLinkedList<int>::GetNode': not all control paths return a value
+  Double linked list.vcxproj -> C:\Users\omarh\Algorithms-Problem-Solving-Level-5\Double linked list\x64\Debug\Double linked list.exe

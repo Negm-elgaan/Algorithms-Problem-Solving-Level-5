@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include <thread>
 using namespace std;
 template <class T> class clsDblLinkedList
 {
@@ -246,6 +247,15 @@ template <class T> class clsDblLinkedList
             return;
         }
 
+        void InsertAtBeginningAndEnd(T FirstVal, T SecondVal)
+        {
+            thread T1(&clsDblLinkedList::InsertAtBeginning, this, FirstVal);
+            thread T2(&clsDblLinkedList::InsertAtEnd, this, SecondVal);
+            T1.join();
+            T2.join();
+            return;
+        }
+
         void PrintNode()
         {
             node* temp = head;
@@ -384,6 +394,7 @@ int main()
 
     dbllinked.UpdateItem(2, 1000);    
     dbllinked.InsertAfter(2, 2000);
+    dbllinked.InsertAtBeginningAndEnd(10, 90);
     dbllinked.PrintNode();
     /*dbllinked.InsertAfter(node1, 5);
     cout << endl;
