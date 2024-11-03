@@ -29,19 +29,6 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "clsMyQueue.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\MyStack\\MyStack\\clsMyQueue.h",
-              "RelativeDocumentMoniker": "MyStack\\clsMyQueue.h",
-              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\MyStack\\MyStack\\clsMyQueue.h",
-              "RelativeToolTip": "MyStack\\clsMyQueue.h",
-              "ViewState": "AQIAACkBAAAAAAAAAAAQwFMBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-01T23:53:40.638Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
@@ -51,13 +38,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsMyQueue.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\MyStack\\MyStack\\clsMyQueue.h",
+              "RelativeDocumentMoniker": "MyStack\\clsMyQueue.h",
+              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\MyStack\\MyStack\\clsMyQueue.h",
+              "RelativeToolTip": "MyStack\\clsMyQueue.h",
+              "ViewState": "AQIAACkBAAAAAAAAAAAQwE8BAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T23:53:40.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "clsDblLinkedList.h",
               "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\MyStack\\MyStack\\clsDblLinkedList.h",
               "RelativeDocumentMoniker": "MyStack\\clsDblLinkedList.h",
               "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\MyStack\\MyStack\\clsDblLinkedList.h",
               "RelativeToolTip": "MyStack\\clsDblLinkedList.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAIICAAAAAAAAAAAAAJ8CAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-01T22:38:09.572Z",
               "EditorCaption": ""
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "MyStack\\clsMyStack.h",
               "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\MyStack\\MyStack\\clsMyStack.h",
               "RelativeToolTip": "MyStack\\clsMyStack.h",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAQwHoAAAAAAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAHkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-01T22:37:36.195Z",
               "EditorCaption": ""
@@ -85,8 +85,7 @@
               "RelativeToolTip": "MyStack\\MyStack.cpp",
               "ViewState": "AQIAACQAAAAAAAAAAAAAABkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-01T22:28:43.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T22:28:43.122Z"
             }
           ]
         }
