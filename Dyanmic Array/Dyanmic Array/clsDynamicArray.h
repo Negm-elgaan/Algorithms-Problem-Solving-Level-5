@@ -17,7 +17,7 @@ template <class T> class clsDynamicArray
 			_PtrArray = new T[_Size];
 		}
 		
-		bool SetItem(int index , T Data )
+		bool SetItem(int index , T Data)
 		{
 			if (index > _Size - 1 || _Size < 0)
 				return false;
@@ -43,6 +43,21 @@ template <class T> class clsDynamicArray
 			}
 			
 			cout << "\n";
+			
+			return;
+		}
+
+		void Resize(int NewSize = 0)
+		{
+			T* Temp = new T[_Size];
+			for (int i = 0; i < _Size; i++)
+				Temp[i] = _PtrArray[i];
+			delete[] _PtrArray;
+			_Size = NewSize;
+			_PtrArray = new T[_Size];
+			for (int i = 0; Temp[i] != NULL ; i++)
+				_PtrArray[i] = Temp[i];
+			return;
 		}
 
 		~clsDynamicArray()

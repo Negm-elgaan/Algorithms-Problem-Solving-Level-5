@@ -21,7 +21,8 @@ int main()
     cout << "\nArray Items: \n";
 
     MyDynamicArray.PrintList();
-
+    MyDynamicArray.Resize(20);
+    MyDynamicArray.PrintList();
 
 
 
