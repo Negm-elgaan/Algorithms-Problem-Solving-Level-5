@@ -21,9 +21,22 @@ int main()
     cout << "\nArray Items: \n";
 
     MyDynamicArray.PrintList();
-    MyDynamicArray.Resize(20);
+    cout << endl << endl;
+    MyDynamicArray.Resize(3);
+    MyDynamicArray.SetItem(5, 60);
+    MyDynamicArray.SetItem(6, 70);
     MyDynamicArray.PrintList();
-
+    cout << endl << endl;
+    MyDynamicArray.Reverse();
+    MyDynamicArray.Reverse();
+    MyDynamicArray.Reverse();
+    MyDynamicArray.PrintList();
+    MyDynamicArray.Clear();
+    MyDynamicArray.SetItem(0, 10);
+    MyDynamicArray.SetItem(1, 20);
+    MyDynamicArray.SetItem(2, 30);
+    cout << endl << endl;
+    MyDynamicArray.PrintList();
 
 
 
