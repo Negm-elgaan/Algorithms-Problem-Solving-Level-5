@@ -1,0 +1,20 @@
+﻿  QueueArr.cpp
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\QueueArr\QueueArr\clsMyString.h(67,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueArr.cpp')
+  
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\QueueArr\QueueArr\clsMyString.h(72,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueArr.cpp')
+  
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\QueueArr\QueueArr\clsMyString.h(84,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueArr.cpp')
+  
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\QueueArr\QueueArr\clsMyString.h(221,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueArr.cpp')
+  
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\QueueArr\QueueArr\clsMyString.h(352,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueArr.cpp')
+  
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\QueueArr\QueueArr\clsMyString.h(400,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueArr.cpp')
+  
+  QueueArr.vcxproj -> C:\Users\omarh\Algorithms-Problem-Solving-Level-5\QueueArr\x64\Debug\QueueArr.exe
