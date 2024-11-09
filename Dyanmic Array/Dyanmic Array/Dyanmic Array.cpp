@@ -22,9 +22,17 @@ int main()
 
     MyDynamicArray.PrintList();
     cout << endl << endl;
-    MyDynamicArray.Resize(3);
+    MyDynamicArray.Resize(7);
     MyDynamicArray.SetItem(5, 60);
     MyDynamicArray.SetItem(6, 70);
+    MyDynamicArray.InsertAt(0, 100);
+    MyDynamicArray.InsertAfter(3, 200);
+    MyDynamicArray.InsertBefore(2, 300);
+    MyDynamicArray.InsertAtBeginning(1);
+    MyDynamicArray.InsertAtEnd(0);
+    MyDynamicArray.PrintList();
+    MyDynamicArray.DeleteItemAt(0);
+    
     MyDynamicArray.PrintList();
     cout << endl << endl;
     MyDynamicArray.Reverse();
@@ -37,8 +45,9 @@ int main()
     MyDynamicArray.SetItem(2, 30);
     cout << endl << endl;
     MyDynamicArray.PrintList();
+    cout << endl;
 
-
+    MyDynamicArray.PrintList();
 
     system("pause>0");
 
