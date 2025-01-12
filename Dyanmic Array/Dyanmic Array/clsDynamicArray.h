@@ -20,6 +20,11 @@ template <class T> class clsDynamicArray
 			_RevArray = new T[_Size];
 		}
 		
+		T& operator[](int x)
+		{
+			return _PtrArray[x];
+		}
+
 		bool SetItem(int index , T Data)
 		{
 			if (index > _Size - 1 || _Size < 0)

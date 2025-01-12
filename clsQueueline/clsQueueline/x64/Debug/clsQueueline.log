@@ -1,0 +1,14 @@
+﻿  clsQueueline.cpp
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\clsQueueline\clsQueueline\clsDate.h(21,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsQueueline.cpp')
+  
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\clsQueueline\clsQueueline\clsQueueLine.h(28,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsQueueline.cpp')
+  
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\clsQueueline\clsQueueline\clsQueueLine.h(45,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsQueueline.cpp')
+  
+C:\Users\omarh\Algorithms-Problem-Solving-Level-5\clsQueueline\clsQueueline\clsQueueLine.h(75,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsQueueline.cpp')
+  
+  clsQueueline.vcxproj -> C:\Users\omarh\Algorithms-Problem-Solving-Level-5\clsQueueline\x64\Debug\clsQueueline.exe

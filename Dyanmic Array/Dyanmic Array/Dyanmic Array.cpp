@@ -16,6 +16,12 @@ int main()
     MyDynamicArray.SetItem(3, 40);
     MyDynamicArray.SetItem(4, 50);
 
+    cout << "Test " << MyDynamicArray[0] << endl << endl;
+
+    MyDynamicArray[0] = 1;
+
+    cout << "Test " << MyDynamicArray[0] << endl << endl;
+
     cout << "\nIs Empty?  " << MyDynamicArray.IsEmpty();
     cout << "\nArray Size: " << MyDynamicArray.Size() << "\n";
     cout << "\nArray Items: \n";

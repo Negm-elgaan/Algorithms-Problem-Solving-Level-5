@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\",
+  "WorkspaceRootPath": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsMyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsMyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|solutionrelative:QueueArr\\clsMyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsMyStackArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|solutionrelative:QueueArr\\clsMyStackArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\QueueArr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|solutionrelative:QueueArr\\QueueArr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|solutionrelative:QueueArr\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsMyQueueArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsMyQueueArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|solutionrelative:QueueArr\\clsMyQueueArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\QueueArr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|solutionrelative:QueueArr\\QueueArr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|solutionrelative:QueueArr\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsMyStackArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E3B1690-E29A-43A8-B03C-3BF963249531}|QueueArr\\QueueArr.vcxproj|solutionrelative:QueueArr\\clsMyStackArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsMyString.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsMyString.h",
+              "RelativeDocumentMoniker": "QueueArr\\clsMyString.h",
+              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsMyString.h",
+              "RelativeToolTip": "QueueArr\\clsMyString.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-09T12:39:33.505Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -42,65 +55,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clsMyString.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsMyString.h",
-              "RelativeDocumentMoniker": "QueueArr\\clsMyString.h",
-              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsMyString.h",
-              "RelativeToolTip": "QueueArr\\clsMyString.h",
-              "ViewState": "AQIAAC4CAAAAAAAAAAAUwFgCAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-09T12:39:33.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "clsMyStackArr.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsMyStackArr.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsMyStackArr.h",
               "RelativeDocumentMoniker": "QueueArr\\clsMyStackArr.h",
-              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsMyStackArr.h",
+              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsMyStackArr.h",
               "RelativeToolTip": "QueueArr\\clsMyStackArr.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-09T12:20:49.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T12:20:49.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "clsMyQueueArr.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsMyQueueArr.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsMyQueueArr.h",
               "RelativeDocumentMoniker": "QueueArr\\clsMyQueueArr.h",
-              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsMyQueueArr.h",
+              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsMyQueueArr.h",
               "RelativeToolTip": "QueueArr\\clsMyQueueArr.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAPAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAQwFcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-09T11:51:07.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "clsDynamicArray.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsDynamicArray.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsDynamicArray.h",
               "RelativeDocumentMoniker": "QueueArr\\clsDynamicArray.h",
-              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\clsDynamicArray.h",
+              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\clsDynamicArray.h",
               "RelativeToolTip": "QueueArr\\clsDynamicArray.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "ViewState": "AQIAAPoAAAAAAAAAAAAQwCQBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-09T11:50:24.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "QueueArr.cpp",
-              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\QueueArr.cpp",
+              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\QueueArr.cpp",
               "RelativeDocumentMoniker": "QueueArr\\QueueArr.cpp",
-              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\QueueArr\\QueueArr\\QueueArr.cpp",
-              "RelativeToolTip": "QueueArr\\QueueArr.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\UndoRedo\\QueueArr\\QueueArr.cpp*",
+              "RelativeToolTip": "QueueArr\\QueueArr.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-09T11:49:12.99Z",
               "EditorCaption": ""

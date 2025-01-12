@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsMyStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|solutionrelative:Dyanmic Array\\clsMyStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\Dyanmic Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|solutionrelative:Dyanmic Array\\Dyanmic Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|solutionrelative:Dyanmic Array\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsMyQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|solutionrelative:Dyanmic Array\\clsMyQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|solutionrelative:Dyanmic Array\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsMyStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|solutionrelative:Dyanmic Array\\clsMyStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDA76372-1A3B-47DD-AB79-E827ED563C29}|Dyanmic Array\\Dyanmic Array.vcxproj|C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsDblLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "clsDynamicArray.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsDynamicArray.h",
-              "RelativeDocumentMoniker": "Dyanmic Array\\clsDynamicArray.h",
-              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsDynamicArray.h",
-              "RelativeToolTip": "Dyanmic Array\\clsDynamicArray.h",
-              "ViewState": "AQIAAPkAAAAAAAAAAAAAACMBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-02T23:34:38.002Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -55,19 +42,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDynamicArray.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsDynamicArray.h",
+              "RelativeDocumentMoniker": "Dyanmic Array\\clsDynamicArray.h",
+              "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsDynamicArray.h",
+              "RelativeToolTip": "Dyanmic Array\\clsDynamicArray.h",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T11:19:54.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "clsDblLinkedList.h",
               "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsDblLinkedList.h",
               "RelativeDocumentMoniker": "Dyanmic Array\\clsDblLinkedList.h",
               "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsDblLinkedList.h",
               "RelativeToolTip": "Dyanmic Array\\clsDblLinkedList.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ8CAAAWAAAA",
+              "ViewState": "AQIAAHUCAAAAAAAAAAAAAJ8CAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-02T23:36:19.743Z"
+              "WhenOpened": "2024-11-02T23:36:19.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "clsMyStack.h",
               "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsMyStack.h",
               "RelativeDocumentMoniker": "Dyanmic Array\\clsMyStack.h",
@@ -86,20 +87,20 @@
               "RelativeDocumentMoniker": "Dyanmic Array\\clsMyQueue.h",
               "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\clsMyQueue.h",
               "RelativeToolTip": "Dyanmic Array\\clsMyQueue.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAFcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-02T23:35:50.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Dyanmic Array.cpp",
               "DocumentMoniker": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\Dyanmic Array.cpp",
               "RelativeDocumentMoniker": "Dyanmic Array\\Dyanmic Array.cpp",
               "ToolTip": "C:\\Users\\omarh\\Algorithms-Problem-Solving-Level-5\\Dyanmic Array\\Dyanmic Array\\Dyanmic Array.cpp",
               "RelativeToolTip": "Dyanmic Array\\Dyanmic Array.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAiAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-02T23:34:00.091Z",
               "EditorCaption": ""
